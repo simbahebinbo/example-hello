@@ -1,5 +1,9 @@
 [requires]
-Hello/0.1@memsharded/testing
+hello/1.0.0
 
 [generators]
-cmake
+CMakeDeps
+CMakeToolchain
+
+[layout]
+cmake_layout

@@ -10,7 +10,7 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 find_package(hello CONFIG REQUIRED)
 
 add_executable(${PROJECT_NAME}
-        main.cpp
+        src/main.cpp
 )
 
 target_link_libraries(${PROJECT_NAME}

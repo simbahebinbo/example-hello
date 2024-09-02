@@ -6,7 +6,7 @@ Project to reuse the hello package created with Conan C and C++ package manager
 $ conan --version
 Conan version 2.7.0
 
-$ conan profile show                                                                      2 ↵
+$ conan profile show
 Host profile:
 [settings]
 arch=armv8
